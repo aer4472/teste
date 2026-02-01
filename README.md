@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24995426/README.md)
 # 🍕 Sistema de Pedidos Online - Restaurante/Delivery
 
 Sistema completo de gestão de pedidos online com painel administrativo, cardápio digital e integração com WhatsApp.
